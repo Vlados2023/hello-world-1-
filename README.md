@@ -1,2 +1,6 @@
-# hello-world-1-
-FUCK MY ASSHOLE
+#include<iostream>
+  using namespace std;
+  int main
+  {cout<< "Hello World";
+  return 0;
+  }
